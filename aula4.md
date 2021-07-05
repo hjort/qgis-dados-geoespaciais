@@ -8,3 +8,5 @@ Nesta aula, aprendemos:
 ## Referências
 
 https://www.esri.com/arcgis-blog/products/arcgis-enterprise/mapping/measuring-distances-and-areas-when-your-map-uses-the-mercator-projection/
+
+https://www.flickr.com/groups/qgis/pool/
